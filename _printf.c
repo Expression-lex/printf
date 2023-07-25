@@ -10,7 +10,7 @@ int _printf(const char *format, ...)
 {
 	int (*pfunc)(va_list, flags_t *);
 	const char *new;
-	va_lsit ap;
+	va_list ap;
 	flags_t flags = {0, 0, 0};
 
 	register int count = 0;
