@@ -2,7 +2,7 @@
 /**
  * _printf - produces output according to a format
  * @format: format string containing the characters and spcifiers
- *
+ *by Alex and Innocent
  * Return: length of the formatted output string
  *
  */
