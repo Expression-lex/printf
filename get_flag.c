@@ -3,6 +3,7 @@
 /**
  * get_flag - turns on flags if _printf finds
  * a flag modifier in the format string
+ * By Alex and Innocent
  * @s: character that holds the flag specifier
  * @f: pointer to the struct flags in which we turn the flags on
  *
