@@ -3,6 +3,9 @@
 
 #include <stdlib.h>
 #include <stdarg.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <limits.h>
 
 /**
  * struct flags - struct flags to turn on when passed to _printf()
